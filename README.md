@@ -69,12 +69,12 @@ const hamza = {
 
 ## 🚀 Ausgewählte Projekte
 
-| Projekt | Beschreibung | Stack |
-|---------|-------------|-------|
-| **[Bikehaus Freiburg](https://bikehausfreiburg.com)** | Vollständige digitale Warenwirtschaft inkl. Admin-App, Electron Desktop, Chrome Extension MV3 & Kleinanzeigen-Scraper | C#/.NET · Angular 17 · Electron · Playwright · Docker |
-| **[Kulturplattform Freiburg](https://kulturplattformfreiburg.org)** | Vereinswebsite mit Newsletter, Bildverarbeitung & DE/TR-Zweisprachigkeit | .NET 10 · React 19 · Tailwind · Docker · DDD |
-| **DI-ONE** | Enterprise Getränke-ERP (40+ API-Controller, OData, Azure AD RBAC, KI-Chat mit OpenAI Assistants v2) | .NET 9 · Angular 19 · NgRx · MediatR · Azure |
-| **DI-FLUX** | End-to-End Arbeitszeiterfassungslösung (Abschlussprojekt) | Angular · C# · SQL |
+| Projekt | Beschreibung | Stack | Repo |
+|---------|-------------|-------|------|
+| **[Bikehaus Freiburg](https://bikehausfreiburg.com)** | Vollständige digitale Warenwirtschaft inkl. Admin-App, Electron Desktop, Chrome Extension MV3 & Kleinanzeigen-Scraper | C#/.NET · Angular 17 · Electron · Playwright · Docker | [![GitHub](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/oeztuerkhamza/bikehaus-freiburg) |
+| **[Kulturplattform Freiburg](https://kulturplattformfreiburg.org)** | Vereinswebsite mit Newsletter, Bildverarbeitung & DE/TR-Zweisprachigkeit | .NET 10 · React 19 · Tailwind · Docker · DDD | [![GitHub](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/oeztuerkhamza/kulturplattform-freiburg) |
+| **DI-ONE** | Enterprise Getränke-ERP (40+ API-Controller, OData, Azure AD RBAC, KI-Chat mit OpenAI Assistants v2) | .NET 9 · Angular 19 · NgRx · MediatR · Azure | 🔒 Privat |
+| **DI-FLUX** | End-to-End Arbeitszeiterfassungslösung (Abschlussprojekt) | Angular · C# · SQL | 🔒 Privat |
 
 ---
 
