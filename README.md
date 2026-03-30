@@ -30,7 +30,6 @@ const hamza = {
   devops:     ["Docker", "GitHub Actions", "Azure Pipelines", "SonarQube"],
   ai:         ["OpenAI API", "Prompt Engineering", "Context Engineering"],
   languages:  { turkish: "Muttersprache", german: "B2 → C1", english: "B2" },
-  currentlyWorking: "Kulturplattform Freiburg e.V. (Ehrenamtlich)",
 };
 ```
 
